@@ -1,0 +1,66 @@
+{
+  "tt.json": {
+    "articles": [
+      {
+        "author": "Trường Đại học Sư phạm - Đại học Đà Nẵng",
+        "title": "ĐĂNG KÝ TỌA ĐÀM “PHƯƠNG PHÁP SƯ PHẠM – CÂY ĐŨA CỦA NHẠC TRƯỞNG",
+        "url": "http://tinyurl.com/toadamppsp",
+        "urlToImage": "https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-0/p180x540/212452473_4235876446478412_9180591637904763173_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=825194&_nc_ohc=EwM4-DFQj7IAX_S8WHM&_nc_ht=scontent-hkt1-1.xx&tp=6&oh=fcd3688fd440f5ea355a135dd4214c7e&oe=60EA74C0"
+      },
+      {
+        "author": "Hồ Minh Hoành",
+        "title": "Công văn triển khai tổ chức đào tạo trực tuyến học kì hè, năm học 2020 - 2021",
+        "url": "http://daotao.ued.udn.vn/cong-van-trien-khai-to-chuc-dao-tao-truc-tuyen-hoc-ki-he-nam-hoc-2020-2021/?fbclid=IwAR1NYUHHIJ6R0EJShcTCLYOro8ALxtn5dSsYc9W5A1wFuYjLeoauzpvJXXo",
+        "urlToImage": "https://static.tuoitre.vn/tto/i/s626/2012/08/02/qWyJL480.jpg"
+      },
+      {
+        "author": "Đàm Minh Anh",
+        "title": "THÔNG BÁO RÀ SOÁT KẾT QUẢ XÉT CÔNG NHẬN TỐT NGHIỆP ĐỢT 2, THÁNG 5/2021",
+        "url": "http://daotao.ued.udn.vn/thong-bao-ra-soat-ket-qua-xet-cong-nhan-tot-nghiep-dot-2-thang-5-2021/?fbclid=IwAR2iFrrnErZOEp6Gj6DgZFbzu0SGJT0z5V7iIKEFaDr0jW4eAsGpl5Lk0jA",
+        "urlToImage": "https://hcmussh.edu.vn/img/news/27366933.jpg?t=27366934g"
+      },
+      {
+        "author": "Trường Đại học Sư phạm - Đại học Đà Nẵng",
+        "title": "HỘI NGHỊ NCKH SINH VIÊN NĂM 2021",
+        "url": "https://ued.udn.vn/hoat-dong-khoa-hoc/thu-moi-tham-du-hoi-nghi-svnckh-cap-truong-nam-hoc-2020-2021-746.html",
+        "urlToImage": "https://external-hkt1-2.xx.fbcdn.net/safe_image.php?d=AQFirhNGToQtnwMs&w=500&h=261&url=https%3A%2F%2Fued.udn.vn%2Fuploads%2Fnews%2F2021_06%2F7ef082751f7beb25b26a.jpg&cfs=1&ext=jpg&ccb=3-5&_nc_hash=AQGfaQpwczK8zIvf"
+      },
+      {
+        "author": "Đàm Minh Anh",
+        "title": "Nhờ các bạn sinh viên tham gia khảo sát giúp nhóm nghiên cứu với nhé.",
+        "url": "https://docs.google.com/forms/d/1pdIcVq_dEaAJ9pM62GZvi5sgChV1OCKrxgq9TPertTY/viewform?fbclid=IwAR0TvnhpalnLF-RRSk7fMmLU_mlTz7faqMlAqVGqr1VCaGylvn_wAATGrrw&edit_requested=true",
+        "urlToImage": "https://external-hkt1-2.xx.fbcdn.net/safe_image.php?d=AQEJy7aeXFhKTnP-&w=500&h=261&url=https%3A%2F%2Flh3.googleusercontent.com%2F1ntg4QNwUdB9W3ZyH0tML2m7r75jok-9w9x99kvTvMTfbyGpt4ELVXXMrhl2FX_aJPLr0RzlB_s%3Dw1200-h630-p&cfs=1&ext=jpg&ccb=3-5&_nc_hash=AQFHqOyLAwvWqpUP"
+      },
+      {
+        "author": "Trường Đại học Sư phạm - Đại học Đà Nẵng",
+        "title": "ĐĂNG KÝ TỌA ĐÀM “PHƯƠNG PHÁP SƯ PHẠM – CÂY ĐŨA CỦA NHẠC TRƯỞNG",
+        "url": "http://tinyurl.com/toadamppsp",
+        "urlToImage": "https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-0/p180x540/212452473_4235876446478412_9180591637904763173_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=825194&_nc_ohc=EwM4-DFQj7IAX_S8WHM&_nc_ht=scontent-hkt1-1.xx&tp=6&oh=fcd3688fd440f5ea355a135dd4214c7e&oe=60EA74C0"
+      },
+      {
+        "author": "Hồ Minh Hoành",
+        "title": "Công văn triển khai tổ chức đào tạo trực tuyến học kì hè, năm học 2020 - 2021",
+        "url": "http://daotao.ued.udn.vn/cong-van-trien-khai-to-chuc-dao-tao-truc-tuyen-hoc-ki-he-nam-hoc-2020-2021/?fbclid=IwAR1NYUHHIJ6R0EJShcTCLYOro8ALxtn5dSsYc9W5A1wFuYjLeoauzpvJXXo",
+        "urlToImage": "https://static.tuoitre.vn/tto/i/s626/2012/08/02/qWyJL480.jpg"
+      },
+      {
+        "author": "Đàm Minh Anh",
+        "title": "THÔNG BÁO RÀ SOÁT KẾT QUẢ XÉT CÔNG NHẬN TỐT NGHIỆP ĐỢT 2, THÁNG 5/2021",
+        "url": "http://daotao.ued.udn.vn/thong-bao-ra-soat-ket-qua-xet-cong-nhan-tot-nghiep-dot-2-thang-5-2021/?fbclid=IwAR2iFrrnErZOEp6Gj6DgZFbzu0SGJT0z5V7iIKEFaDr0jW4eAsGpl5Lk0jA",
+        "urlToImage": "https://hcmussh.edu.vn/img/news/27366933.jpg?t=27366934g"
+      },
+      {
+        "author": "Trường Đại học Sư phạm - Đại học Đà Nẵng",
+        "title": "HỘI NGHỊ NCKH SINH VIÊN NĂM 2021",
+        "url": "https://ued.udn.vn/hoat-dong-khoa-hoc/thu-moi-tham-du-hoi-nghi-svnckh-cap-truong-nam-hoc-2020-2021-746.html",
+        "urlToImage": "https://external-hkt1-2.xx.fbcdn.net/safe_image.php?d=AQFirhNGToQtnwMs&w=500&h=261&url=https%3A%2F%2Fued.udn.vn%2Fuploads%2Fnews%2F2021_06%2F7ef082751f7beb25b26a.jpg&cfs=1&ext=jpg&ccb=3-5&_nc_hash=AQGfaQpwczK8zIvf"
+      },
+      {
+        "author": "Đàm Minh Anh",
+        "title": "Nhờ các bạn sinh viên tham gia khảo sát giúp nhóm nghiên cứu với nhé.",
+        "url": "https://docs.google.com/forms/d/1pdIcVq_dEaAJ9pM62GZvi5sgChV1OCKrxgq9TPertTY/viewform?fbclid=IwAR0TvnhpalnLF-RRSk7fMmLU_mlTz7faqMlAqVGqr1VCaGylvn_wAATGrrw&edit_requested=true",
+        "urlToImage": "https://external-hkt1-2.xx.fbcdn.net/safe_image.php?d=AQEJy7aeXFhKTnP-&w=500&h=261&url=https%3A%2F%2Flh3.googleusercontent.com%2F1ntg4QNwUdB9W3ZyH0tML2m7r75jok-9w9x99kvTvMTfbyGpt4ELVXXMrhl2FX_aJPLr0RzlB_s%3Dw1200-h630-p&cfs=1&ext=jpg&ccb=3-5&_nc_hash=AQFHqOyLAwvWqpUP"
+      }
+    ]
+  }
+}
